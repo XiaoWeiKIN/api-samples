@@ -28,3 +28,49 @@
 2021/06/06 22:08:01 [error] 27702#4406635: *97 open() "/Users/wangxw/project/my/nginx-work/html/api/passphrase" failed (2: No such file or directory), client: 127.0.0.1, server: www.test.com, request: "GET /api/passphrase HTTP/2.0", host: "gearssdk.opswat.com"
 2021/06/06 23:06:37 [error] 27703#4406636: *98 open() "/Users/wangxw/project/my/nginx-work/html/api/passphrase" failed (2: No such file or directory), client: 127.0.0.1, server: www.test.com, request: "GET /api/passphrase HTTP/2.0", host: "gearssdk.opswat.com"
 2021/06/06 23:06:39 [error] 27702#4406635: *99 open() "/Users/wangxw/project/my/nginx-work/html/api/license/timestamp/53a4c0c0e4b0f503bd6e4368" failed (2: No such file or directory), client: 127.0.0.1, server: www.test.com, request: "GET /api/license/timestamp/53a4c0c0e4b0f503bd6e4368 HTTP/2.0", host: "gearssdk.opswat.com"
+2021/06/10 11:22:21 [notice] 2592#2592: signal process started
+2021/06/10 11:22:21 [notice] 3568#3568: using the "epoll" event method
+2021/06/10 11:22:21 [notice] 3568#3568: start worker processes
+2021/06/10 11:22:21 [notice] 3568#3568: start worker process 2593
+2021/06/10 11:22:21 [notice] 3568#3568: start worker process 2594
+2021/06/10 11:22:21 [notice] 3568#3568: start worker process 2595
+2021/06/10 11:22:21 [notice] 3568#3568: start worker process 2596
+2021/06/10 11:22:21 [notice] 3568#3568: signal 17 (SIGCHLD) received from 31919
+2021/06/10 11:22:21 [notice] 3568#3568: worker process 31919 exited with code 0
+2021/06/10 11:22:21 [notice] 3568#3568: worker process 31920 exited with code 0
+2021/06/10 11:22:21 [notice] 3568#3568: worker process 31921 exited with code 0
+2021/06/10 11:22:21 [notice] 3568#3568: signal 29 (SIGIO) received
+2021/06/10 11:22:21 [notice] 3568#3568: signal 17 (SIGCHLD) received from 31920
+2021/06/10 11:22:21 [notice] 3568#3568: signal 17 (SIGCHLD) received from 31922
+2021/06/10 11:22:21 [notice] 3568#3568: worker process 31922 exited with code 0
+2021/06/10 11:22:21 [notice] 3568#3568: signal 29 (SIGIO) received
+2021/06/10 11:22:23 [notice] 2599#2599: signal process started
+2021/06/10 11:22:23 [notice] 3568#3568: signal 1 (SIGHUP) received from 2599, reconfiguring
+2021/06/10 11:22:23 [notice] 3568#3568: reconfiguring
+2021/06/10 11:22:23 [notice] 3568#3568: using the "epoll" event method
+2021/06/10 11:22:23 [notice] 3568#3568: start worker processes
+2021/06/10 11:22:23 [notice] 3568#3568: start worker process 2600
+2021/06/10 11:22:23 [notice] 3568#3568: start worker process 2601
+2021/06/10 11:22:23 [notice] 3568#3568: start worker process 2602
+2021/06/10 11:22:23 [notice] 3568#3568: start worker process 2603
+2021/06/10 11:22:23 [notice] 2593#2593: gracefully shutting down
+2021/06/10 11:22:23 [notice] 2594#2594: gracefully shutting down
+2021/06/10 11:22:23 [notice] 2595#2595: gracefully shutting down
+2021/06/10 11:22:23 [notice] 2596#2596: gracefully shutting down
+2021/06/10 11:22:23 [notice] 2593#2593: exiting
+2021/06/10 11:22:23 [notice] 2594#2594: exiting
+2021/06/10 11:22:23 [notice] 2595#2595: exiting
+2021/06/10 11:22:23 [notice] 2596#2596: exiting
+2021/06/10 11:22:23 [notice] 2593#2593: exit
+2021/06/10 11:22:23 [notice] 2595#2595: exit
+2021/06/10 11:22:23 [notice] 2594#2594: exit
+2021/06/10 11:22:23 [notice] 2596#2596: exit
+2021/06/10 11:22:23 [notice] 3568#3568: signal 17 (SIGCHLD) received from 2593
+2021/06/10 11:22:23 [notice] 3568#3568: worker process 2593 exited with code 0
+2021/06/10 11:22:23 [notice] 3568#3568: worker process 2595 exited with code 0
+2021/06/10 11:22:23 [notice] 3568#3568: signal 29 (SIGIO) received
+2021/06/10 11:22:23 [notice] 3568#3568: signal 17 (SIGCHLD) received from 2594
+2021/06/10 11:22:23 [notice] 3568#3568: worker process 2594 exited with code 0
+2021/06/10 11:22:23 [notice] 3568#3568: worker process 2596 exited with code 0
+2021/06/10 11:22:23 [notice] 3568#3568: signal 29 (SIGIO) received
+2021/06/10 11:22:23 [notice] 3568#3568: signal 17 (SIGCHLD) received from 2596
